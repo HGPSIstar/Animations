@@ -1,0 +1,26 @@
+[
+  {
+    "number": 1,
+    "title": "Magnétostatique",
+    "url": "magnetostatique/",
+    "visible": true
+  },
+  {
+    "number": 2,
+    "title": "Les Ondes",
+    "url": "https://hgpsistar.github.io/Ondes/",
+    "visible": false
+  },
+  {
+    "number": 3,
+    "title": "Ondes électromagnétiques dans le vide",
+    "url": "https://hgpsistar.github.io/Ondes-em-vide/",
+    "visible": false
+  },
+  {
+    "number": 4,
+    "title": "Ondes électromagnétiques et conducteurs",
+    "url": "https://hgpsistar.github.io/Ondes-em-conducteur/",
+    "visible": false
+  }
+]
